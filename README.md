@@ -3,7 +3,8 @@ cdac datastructure learning
 	
 ### Date and Topic
 
-### - [10 June 24](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Stack) Stack
-### - [11 June 24](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Queue) Queue
-### - [11 June 24](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/LinkedList) LinkedList
+### - [Stack](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Stack)
+### - [Queue](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Queue) 
+### - [LinkedList](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/LinkedList)
 ### - [DynamicStack](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/LinkedList/DynamicStack)
+### - [DynamicQueue](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/LinkedList/DynamicQueue)
