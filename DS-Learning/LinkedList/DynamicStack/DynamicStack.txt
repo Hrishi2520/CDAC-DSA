@@ -1,0 +1,53 @@
+package LinkedList.Dynamic;
+
+public class DynamicStack {
+    Node tos;
+
+    void create_stack() {
+        tos = null;//root is not there
+    }
+
+    void push(int e) {
+        Node n = new Node(e);
+        if (tos == null)//not there then n is root
+            tos = n;
+        else {
+            n.next = tos;//1
+            tos = n;//2
+        }
+        System.out.println(e + " Pushed");
+
+    }
+
+    void pop() {
+        if (tos == null)//not there then n is root
+            System.out.println("Empty Stack");
+        else {
+            Node t = tos;//1
+            tos = tos.next;//2
+            System.out.println(t.data + " poped");
+        }
+    }
+
+    void peek() {
+        if (tos == null)//not there then n is root
+            System.out.println("Empty Stack");
+        else {
+
+            System.out.println(tos.data + " @peek");
+        }
+    }
+
+    void print_stack() {
+        if (tos == null)
+            System.out.println("Empty stack");
+        else {
+            Node t = tos;//1
+            while (t != null) {
+                System.out.println("|" + t.data + "|");
+                System.out.println("-------------");
+                t = t.next;
+            }
+        }
+    }
+}
