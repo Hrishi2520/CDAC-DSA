@@ -11,3 +11,4 @@ cdac datastructure learning
 ### - [CircularLinkedList](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/LinkedList/CircularLinkedList)
 ### - [DoublyLinkedList](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/LinkedList/DoublyLinkedList)
 ### - [Graph](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Graph)
+### - [Algorithms](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Algorithms)
