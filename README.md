@@ -15,4 +15,4 @@ cdac datastructure learning
 ### - [BinarySearch](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Searching)
 
 # Practice Questions
-### - [SubArray](https://github.com/Hrishi2520/CDAC-DSA/Assignments/SubArrays)
+### - [SubArray](https://github.com/Hrishi2520/CDAC-DSA/tree/main/Assignments/SubArrays)
