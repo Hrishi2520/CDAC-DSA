@@ -13,3 +13,6 @@ cdac datastructure learning
 ### - [Graph](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Graph)
 ### - [Algorithms](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Algorithms)
 ### - [BinarySearch](https://github.com/Hrishi2520/CDAC-DSA/tree/main/DS-Learning/Searching)
+
+# Practice Questions
+### - [SubArray](https://github.com/Hrishi2520/CDAC-DSA/Assignments/SubArrays)
